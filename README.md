@@ -14,5 +14,5 @@ and briefly in
 
 J. Kokalj and R. McKenzie, Phys. Rev. Lett. 110, 206402 (2013). 
  
-The method is still under development/improvements and needs to be further optimzed and cleaned. 
+The method is still under development/improvements and needs to be further optimized and cleaned. 
 See also the included notes.txt. 
