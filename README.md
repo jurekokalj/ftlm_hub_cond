@@ -1,4 +1,4 @@
-Finite temperature Lanczos method (FTLM) code for optical conductivity of a 2d nearest-neighbor Hubbard model.
+Finite temperature Lanczos method (FTLM) code for optical conductivity of a 2d nearest-neighbor hopping Hubbard model.
 
 If using this code, cite the following FTLM review article:
 J. Jaklič and P. Prelovšek, "Finite-temperature properties of doped antiferromagnets", Advances in Physics 49, 2000, pp 1-49.
